@@ -210,6 +210,7 @@ Before training, modify the following variables in `scripts/train_lora.sh`:
 Example:
 
 ```bash
+# 显存32g
 #!/usr/bin/env bash
 set -euo pipefail
 

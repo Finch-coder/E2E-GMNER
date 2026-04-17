@@ -96,7 +96,7 @@ Please first download the following resources:
 
 Please first download the required resources from the [Twitter-GMNER dataset repository](https://github.com/NUSTM/GMNER/blob/main/README.md), including **IJCAI2019_data** and **Twitter10000_v2.0**.
 
-The CoT data is available in `data/cot/` or can be downloaded from [Baidu Netdisk](xxx).
+The CoT data is available in `data/cot/teacher_cot_train.jsonl`.
 
 Organize the dataset in the following structure:
 

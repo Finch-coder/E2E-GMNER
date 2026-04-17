@@ -1,8 +1,7 @@
 __pycache__/
 .pytest_cache/
 .vscode/
-data/raw/IJCAI2019_data
-data/raw/Twitter10000
+data/raw/*
 data/cot/*
 data/raw/Twitter10000_v2.0
 data/sft2.0

@@ -1,0 +1,28 @@
+{
+    "raw": {
+        "splits": {
+            "train": "data/raw/Twitter10000_v2.0/txt/train.txt",
+            "dev": "data/raw/Twitter10000_v2.0/txt/dev.txt",
+            "test": "data/raw/Twitter10000_v2.0/txt/test.txt"
+        },
+        "xml_root": "data/raw/Twitter10000_v2.0/xml",
+        "img_roots": [
+            "data/raw/IJCAI2019_data/twitter2015_images",
+            "data/raw/IJCAI2019_data/twitter2017_images"
+        ]
+    },
+    "cot": {
+        "train": "data/cot/teacher_cot_merged_train.jsonl",
+        "dev": null,
+        "test": null
+    },
+    "sft": {
+        "output_dir": "data/sft",
+        "data_root": "data",
+        "splits": {
+            "train": "train_sft.jsonl",
+            "dev": "dev_sft.jsonl",
+            "test": "test_sft.jsonl"
+        }
+    }
+}

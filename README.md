@@ -103,7 +103,7 @@ Organize the dataset in the following structure:
 ```text
 data/
 ├── cot
-│   └── teacher_cot_merged_train.jsonl
+│   └── teacher_cot_train.jsonl
 └── raw
     ├── IJCAI2019_data
     │   ├── twitter2015_images
@@ -130,7 +130,7 @@ Then modify `configs/data/data_config.json` according to your local paths:
     ]
   },
   "cot": {
-    "train": "data/cot/teacher_cot_merged_train.jsonl",
+    "train": "data/cot/teacher_cot_train.jsonl",
     "dev": null,
     "test": null
   },

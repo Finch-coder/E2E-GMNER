@@ -2,7 +2,8 @@ __pycache__/
 .pytest_cache/
 .vscode/
 data/raw/*
-data/cot/*
+data/cot/teacher_cot_test.jsonl
+data/cot/teacher_cot_dev.jsonl
 data/raw/Twitter10000_v2.0
 data/sft2.0
 data/sft

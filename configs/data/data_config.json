@@ -12,7 +12,7 @@
         ]
     },
     "cot": {
-        "train": "data/cot/teacher_cot_merged_train.jsonl",
+        "train": "data/cot/teacher_cot_train.jsonl",
         "dev": null,
         "test": null
     },

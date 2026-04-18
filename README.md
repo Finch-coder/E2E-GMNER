@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <b>An end-to-end generative framework for grounded multimodal named entity recognition</b>
+  <b>Overall architecture of E2E-GMNER</b>
 </p>
 
 ---

@@ -1,9 +1,14 @@
-# E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition
+<h1 align="center">E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition</h1>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.17319">
+    <img src="https://img.shields.io/badge/arXiv-2604.17319-b31b1b.svg" alt="arXiv">
+  </a>
+</p>
 
 <p align="center">
   <img src="src/Model Architecture.jpg" alt="E2E-GMNER Framework" width="95%">
 </p>
-
 
 <p align="center">
   <b>Overall architecture of E2E-GMNER</b>
@@ -15,7 +20,6 @@
 
 - **2026-04-17**: Initial release of code and training scripts.
 - **2026-04-07**: This work was accepted by **Findings of ACL 2026**.
-
 ---
 
 ## ✨ Highlights

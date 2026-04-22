@@ -369,11 +369,12 @@ Our implementation is built upon these excellent works.
 If you use this project in your research, please cite:
 
 ```bibtex
-@article{e2e_gmner_2026,
+@article{zhang2026e2egmner,
   title={E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition},
-  author={Anonymous},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
+  author={Zhang, Meng and Ning, Jinzhong and Wu, Xiaolong and Lin, Hongfei and Zhang, Yijia},
+  journal={arXiv preprint arXiv:2604.17319},
+  year={2026},
+  url={https://arxiv.org/abs/2604.17319}
 }
 ```
 
